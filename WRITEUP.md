@@ -8,7 +8,7 @@
 - *Justify your choice*
 
 
---------VM--------
+--------VM-----------
 1.Cost 
   VMs are more expensive because you pay for the full server even when usage is low. You also manage OS updates and maintenance, which adds extra cost.
 2.Scalability
@@ -18,7 +18,7 @@
 4.Workflow
   You manage everything — OS, patches, security, software installation, and deployments. It gives control but requires more work.
 
--------App Service--------
+---------App Service--------
 1.Cost
   App Service is cheaper because you only pay for the selected plan, and scaling is built-in. No OS maintenance costs.
 2.Scalability
