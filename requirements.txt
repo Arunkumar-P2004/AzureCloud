@@ -18,3 +18,5 @@ pyodbc==4.0.34
 
 cryptography==40.0.2
 PyJWT==2.7.0
+
+azure-storage-blob==2.1.0
